@@ -1,13 +1,13 @@
 
 ### Contents
-- Tutorials(#Totorials)
-- Totorial videos(#Videos)
-- Projects(#Projects)
-- Interesting Insights(#Blogs)
-- Groups(#Groups)
-- Books(#Books)
-- Talks(#Talks)
-- People to follow(#People)
+- [Tutorials](#Totorials)
+- Totorial [videos](#Videos)
+- [Projects](#Projects)
+- [Interesting Insights](#Blogs)
+- [Groups](#Groups)
+- [Books](#Books)
+- [Talks](#Talks)
+- [People to follow](#People)
 
 ### Totorials
 - [AssertSelenium](http://www.assertselenium.com/)
